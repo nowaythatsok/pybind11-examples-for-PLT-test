@@ -1,0 +1,5 @@
+build
+pybind11
+.vscode
+depr
+*.so
